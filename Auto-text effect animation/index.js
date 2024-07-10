@@ -21,6 +21,6 @@ if(characterIndex === careers [careerIndex].length){
     if (careerIndex === careers.length){
         careerIndex = 0;
     }
-setTimeout(updateText, 250);
+setTimeout(updateText, 300);
 }
 
